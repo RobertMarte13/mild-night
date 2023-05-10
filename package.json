@@ -1,0 +1,35 @@
+{
+  "name": "mild-night",
+  "displayName": "Mild-Night",
+  "description": "Este tema busca ayudar principalmente con la salud de los ojos ya que no abusa de los colores saturados y es mejor para la lectura de codigo. Este tema seguira actualizandose hasta mejorar.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mild-Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mild-Night-color-theme.json"
+      }
+    ]
+  },
+  "icon": "./icono/mild-night-logo.png",
+  "author": {
+    "name": "Robert Steven Marte Beato",
+    "email": "keveuscraft13@gmail.com",
+    "url": "https://www.linkedin.com/in/robert-steven-marte-beato-818778201/"
+  },
+  "repository": {
+    "url": "https://github.com/RobertMarte13/mild-night.git",
+    "type": "git"
+  },
+  "publisher": "Robert-Marte",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
